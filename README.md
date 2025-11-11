@@ -58,8 +58,7 @@ final_project/
 ├── ai_waste_classification_model.h5   # Trained model
 └── README.md                          # Project documentation
 
----
+✨ Author
 
-## ✨ Author
-**Abeer Mittal**  
+Abeer Mittal
 AI Waste Classification - Final Project (Week 3)
