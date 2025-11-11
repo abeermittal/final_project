@@ -59,6 +59,5 @@ final_project/
 └── README.md                          # Project documentation
 
 ✨ Author
-
 Abeer Mittal
 AI Waste Classification - Final Project (Week 3)
