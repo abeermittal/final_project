@@ -51,9 +51,9 @@ The trained model file (`ai_waste_classification_model.h5`) is available in this
 ## 📁 Repository Structure
 final_project/
 │
-├── AI_Waste_Classification.ipynb # Source notebook
-├── ai_waste_classification_model.h5 # Trained model
-└── README.md # Project documentation
+├── AI_Waste_Classification.ipynb      # Source notebook
+├── ai_waste_classification_model.h5   # Trained model
+└── README.md                          # Project documentation
 
 ---
 
